@@ -1,0 +1,21 @@
+body{
+    font-family: 'Merriweather';
+}
+h1{
+    font-size: 45px;
+    
+}
+.title{
+    color: rgba(235, 133, 38, 0.884);
+}
+h3{
+    font-size: 25px;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin:4%;
+}
+.half-width img{
+    width: 150%;
+}
